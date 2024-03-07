@@ -1,0 +1,30 @@
+@import './vars';
+
+// body {
+//     font-family: $font;
+//     color: $gray;
+//     background-color: $bgColor;
+//     font-size: 14px;
+//     font-weight: 400;
+//     min-height: 100%;
+//     display: grid;
+//     grid-template-rows: auto 1fr auto;
+// }
+
+// a {
+//     color: $yellow;
+//     transition: color 0.1s ease-in;
+// }
+
+.container {
+    max-width: 1300px;
+    padding: 0px 15px;
+    margin: 0 auto;
+}
+
+
+.none {
+    display: none !important;
+}
+
+

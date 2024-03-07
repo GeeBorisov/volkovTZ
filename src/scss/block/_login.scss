@@ -1,0 +1,56 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    margin-top: 150px;
+
+    &__title {
+        font-size: 32px;
+    }
+
+    &__wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    &__name {
+        font-size: 24px;
+
+        input {
+            border: 1px solid rgba(0, 0, 0, 0.429);
+            border-radius: 10px;
+            margin-left: 22px;
+            padding-left: 10px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+        }
+    }
+    &__pass {
+        font-size: 24px;
+
+        input {
+            border: 1px solid rgba(0, 0, 0, 0.429);
+            border-radius: 10px;
+            margin-left: 10px;
+            padding-left: 10px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+        }
+    }
+
+    &__btn {
+        font-size: 24px;
+        margin-top: 10px;
+        border: 1px solid #000;
+        padding: 5px 10px;
+        border-radius: 10px;
+
+        &:hover {
+            background-color: #da1717;
+            color: #fff;
+            border: unset;
+        }
+    }
+}

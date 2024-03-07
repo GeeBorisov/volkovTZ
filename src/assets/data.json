@@ -1,0 +1,60 @@
+{
+  "grillProducts": [
+    {
+      "product": "филе",
+      "ingredients": ["рис"],
+      "weight": 0,
+      "sales": 0,
+      "balance": 150
+    },
+    {
+      "product": "грудка",
+      "ingredients": ["пюре"],
+      "weight": 0,
+      "sales": 0,
+      "balance": 200
+    },
+    {
+      "product": "крылья",
+      "ingredients": ["овощи"],
+      "weight": 0,
+      "sales": 0,
+      "balance": 175
+    },
+    {
+      "product": "шашлык свиной",
+      "ingredients": ["пюре"],
+      "weight": 0,
+      "sales": 0,
+      "balance": 250
+    },
+    {
+      "product": "шашлык куринный",
+      "ingredients": ["овощи"],
+      "weight": 0,
+      "sales": 0,
+      "balance": 225
+    },
+    {
+      "product": "шашлык из баранины",
+      "ingredients": ["рис"],
+      "weight": 0,
+      "sales": 0,
+      "balance": 300
+    },
+    {
+      "product": "стейк из скрасной рыбы",
+      "ingredients": ["овощи"],
+      "weight": 0,
+      "sales": 0,
+      "balance": 275
+    },
+    {
+      "product": "стейк из белой рыбы",
+      "ingredients": ["пюре"],
+      "weight": 0,
+      "sales": 0,
+      "balance": 250
+    }
+  ]
+}
